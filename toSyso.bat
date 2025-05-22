@@ -1,0 +1,1 @@
+.\rsrc.exe -manifest main.manifest -o main.syso -ico .\gear22.ico
